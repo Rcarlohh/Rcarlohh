@@ -13,9 +13,9 @@ $ cat ./profile/bio.txt
 > ¡Hola! Soy un desarrollador apasionado por la tecnología y el código limpio.
 > Me encanta transformar ideas en soluciones funcionales y escalables.
 >
-> 🚀 Actualmente estoy trabajando en [Nombre de tu proyecto principal].
+> 🚀 Actualmente estoy trabajando en
 > 🌱 Siempre aprendiendo sobre desarrollo web, arquitectura de software y nube.
-> 📫 Puedes contactarme en [tu-email@ejemplo.com]
+> 📫 Puedes contactarme en rangel.crlos@gmail.com
 
 ```bash
 $ ./run --fetch-stats Rcarlohh
